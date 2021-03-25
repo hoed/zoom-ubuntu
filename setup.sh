@@ -5,5 +5,7 @@
 #                                     #
 #=====================================#
 
-apt update
-snap install zoom-client
+sudo apt update
+sudo apt install snapd
+
+sudo snap install zoom-client
